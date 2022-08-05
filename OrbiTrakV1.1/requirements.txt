@@ -1,0 +1,2 @@
+ffmpeg software needs to be acquired for the animation to function
+not included since file size is too big
